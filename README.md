@@ -50,7 +50,7 @@ A comprehensive desktop application for managing a car rental business, built wi
 ![Dashboard Technician](Screenshots/dashboard5.png)
 ![Dashboard SalesPerson](Screenshots/dashboard6.png)
 
-> **Note:** This repository contains the **Desktop Application** (Admin Panel). For the customer-facing Web Interface, please visit: [Link-to-Web-Repo-Here]
+> **Note:** This repository contains the **Desktop Application** (Admin Panel). For the customer-facing Web Interface, please visit: [[Here](https://github.com/TasanSerhat/SmartCar-Rental-System-Web)]
 
 ## 📄 License
 This project is open-source and available under the MIT License.
